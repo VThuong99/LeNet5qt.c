@@ -7,7 +7,8 @@ This project implements C code to perform **post-training quantization** on the 
 - [main_quantized.c](./main_quantized.c): Run inference using **post-training quantization** on the saved parameters.
 ## Result
 - Accuracy on test set running in python:
-![Screenshot 2025-01-05 164026](https://github.com/user-attachments/assets/dda0996f-215a-4b60-82d4-fb8df434c31a)
+
+  ![Screenshot 2025-01-05 164026](https://github.com/user-attachments/assets/dda0996f-215a-4b60-82d4-fb8df434c31a)
 - Accuracy on test set running in c:
 
   ![Screenshot 2025-01-05 164956](https://github.com/user-attachments/assets/79caeee0-56ce-4f32-b96c-ee82b4acd4bb)
